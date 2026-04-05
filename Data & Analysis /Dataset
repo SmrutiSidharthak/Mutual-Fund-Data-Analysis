@@ -1,7 +1,0 @@
-├── data & analysis/
-│   └── processed/          # Your cleaned Excel/CSV files
-│   └── analysis_tables.csv # The tables you built (Category vs Returns, etc.)
-│   └── summary             # The summary contains the insight and graphs
-├── docs/
-│   └── Project_Overview.pdf # The Word doc converted to PDF
-└── README.md               # The "Front Door" of your project
